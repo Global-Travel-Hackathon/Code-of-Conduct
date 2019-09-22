@@ -35,7 +35,7 @@ In some cases we may determine that a public statement will need to be made. If 
 
 ## Report Handling Procedure
 
-When you make a report to an incident responder, they will gather information about the incident according to the Staff Procedure For Incident Response.
+When you make a report to an incident responder, they will gather information about the incident according to the [Staff Procedure For Incident Response](https://github.com/Global-Travel-Hackathon/Code-of-Conduct/blob/master/Staff-Procedure-For-Incident-Response.md).
 
 After an incident responder takes the report, they will immediately consult with the lead incident responders (Jona Azizaj, Alzbeta Vackova and Jan Bleha).
 
@@ -57,4 +57,4 @@ In some cases, the lead responders may need to ask additional questions about th
 
 If an incident responder has a conflict of interest for a report, they will recuse themselves from the discussion and handling of the incident. The incident documentation will not be available to them, and they will excuse themselves from any conversations involving handling the incident.
 
-This procedure has been adapted from the PyCon Code of Conduct (CC BY 3.0) and has been updated by Kiwi.com Community Team.
+This procedure has been adapted from the PyCon Code of Conduct ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)) and has been updated by [Kiwi.com Community Team](https://code.kiwi.com/).
