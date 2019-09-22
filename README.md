@@ -68,7 +68,7 @@ _We value your attendance._
 
 ## Procedure for Handling Incidents
 
-* Attendee Procedure for incident handling
+* [Attendee Procedure for incident handling](https://github.com/Global-Travel-Hackathon/Code-of-Conduct/blob/master/Attendee%20Procedure%20for%20incident%20handling.md)
 * Staff Procedure for incident handling
 
 ## License
