@@ -114,4 +114,4 @@ If some attendees were angered by the incident, it is best to apologize to them 
 
 If contact cannot be made via phone or email, please proceed to the staff room.
 
-This procedure has been adapted from the PyCon Code of Conduct (CC BY 3.0) and has been updated by Kiwi.com Community Team.
+This procedure has been adapted from the PyCon Code of Conduct ([CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)) and has been updated by [Kiwi.com Community Team](https://code.kiwi.com/).
